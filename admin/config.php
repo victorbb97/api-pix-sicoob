@@ -24,7 +24,7 @@ define("SICOOBPIX_CHAVE", "12345678900");
 // Definindo titular da conta
 define("SICOOBPIX_TITULAR", "Fulano de Tal");
 
-// Definindo cidade do Titular da conta
+// Definindo cidade do Titular de conta
 define("SICOOBPIX_CID_TITULAR", "BELO HORIZONTE");
 
 ?>
